@@ -18,8 +18,8 @@ export const urlimage = "/images/og-image.png"
 export const imagealt = "Rubix Studios Documentation"
 export const twitterhandle = "@RubixStudios"
 
-export const companyname = "Rubix Studios"
-export const companylink = "https://rubixstudios.com.au"
+export const companyname = "Kairo UI"
+export const companylink = "https://www.npmjs.com/org/kairoui"
 
 export const branding = true
 export const rightsidebar = true
